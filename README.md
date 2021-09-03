@@ -6,5 +6,5 @@
 - Expo Fonts
 
 ##Preview atual
-![simulator_screenshot_BD16C152-173F-4D3F-877C-40D6B72E5DC1](https://user-images.githubusercontent.com/18725901/132071363-7c3995d8-57c2-4de1-9439-9c9ebdbda745.png)
+![simulator_screenshot_E2202995-9DC6-45F8-8472-A0BDCB61D284](https://user-images.githubusercontent.com/18725901/132071639-5a9f00d3-9b32-4b48-a246-e83e8469bd39.png)
 
