@@ -47,7 +47,7 @@ export function Dashboard() {
     {
       id: "3",
       type: "negative",
-      title: "Aluguél",
+      title: "Aluguel",
       amount: "R$ 550,00",
       category: { name: "Casa", icon: "home" },
       date: "10/09/2021",
